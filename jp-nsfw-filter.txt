@@ -1,11 +1,5 @@
-!回避
 !#if false
-||tiktok.com^$all
-||www.temu.com^$all
-||pc-freedom.net^$all
-||x.com^$all
-##.instagram-media
-||instagrammernews.com^
+!annoyance
 qiita.com##.style-1jc77e6
 sp.nicovideo.jp##.siteWide-AppModalWithLogin
 sp.nicovideo.jp##.siteWide-SmartAppBanner_Container
