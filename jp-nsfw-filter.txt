@@ -1,10 +1,5 @@
+! Title:JP NSFW filter
 !#if false
-!annoyance
-qiita.com##.style-1jc77e6
-sp.nicovideo.jp##.siteWide-AppModalWithLogin
-sp.nicovideo.jp##.siteWide-SmartAppBanner_Container
-sp.nicovideo.jp##.watch-Marquee_Container
-toyokeizai.net##.pi_modal
 !manga
 ||novel18.syosetu.com^
 ||syosetu.org^
@@ -209,3 +204,24 @@ www.dmm.com###iFrameResizer0
 ||oppai-erogazou.ero2ch.net^
 ||mizugazo.com^
 ||r21plus.com^
+!soft,livedoor
+||blog.livedoor.jp/idol_gravure_sexy*^$document
+||blog.livedoor.jp/oppai_girl*^$document
+||blog.livedoor.jp/gravureidolfavorite*^$document
+||blog.livedoor.jp/iv_lover*^$document
+!soft,others
+||fanblogs.jp/aigurabia*^$document
+||blog.goo.ne.jp/daisuki-dasuke*^$document
+||ameblo.jp/cubcubcubcub*^$document
+!hard,livedoor
+||blog.livedoor.jp/bookedaura*^$document
+||blog.livedoor.jp/kanribu01*^$document
+||blog.livedoor.jp/kenzou7*^$document
+||ninamoriellie0love.livedoor.blog
+||agechan27.livedoor.blog
+||wesweswes.blog.jp
+||hozumikenji.blog.jp
+||haldio.livedoor.blog
+||sexsmartphone.blog.jp
+!hard,others
+||video.fc2.com/a*^$document
