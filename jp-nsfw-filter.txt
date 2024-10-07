@@ -1,5 +1,5 @@
 ! Title:JP NSFW filter
-! Homepage:||https://github.com/HARRIER79317931/jp-nsfw-filter
+! Homepage:https://github.com/HARRIER79317931/jp-nsfw-filter
 ! Expires: 12 hours
 
 !to do
