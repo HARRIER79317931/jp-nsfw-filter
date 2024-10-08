@@ -153,11 +153,8 @@
 www.dmm.com###iFrameResizer0
 ||pics.dmm.com/mono/movie/idol/*.jpg$image
 ||pics.dmm.com/digital/video/*.jpg$image
-!||tv.dmm.com^
 !image
 ||2pan2.com^
-||adult-doujin-free-information-bureau.officialblog.jp^
-||ch-yunyun.com^
 ||erocon.gger.jp^
 ||geinoujin-gazou.mixh.jp^
 ||geinou-okazumatome.com^
@@ -225,6 +222,7 @@ www.dmm.com###iFrameResizer0
 ||arcane-arts.com^
 ||aimatome.net^
 ||teenager-idol.com^
+||tv.dmm.com/vod/restrict*^$docment
 ||www.idolvcc.com^
 ||kumashy-blog.com^
 !hard,livedoor
@@ -238,9 +236,13 @@ www.dmm.com###iFrameResizer0
 ||haldio.livedoor.blog^
 ||sexsmartphone.blog.jp^
 ||oyajigra.blog.jp^
+||ero-doujin-masterpiece-selection.blog.jp^
+||adult-doujin-free-information-bureau.officialblog.jp^
+||ero-doujin-masterpiece-selection.blog.jp^
 !hard,others
 ||video.fc2.com/a*^$document
 !hard,own
+||ch-yunyun.com/ailab*^$docment
 ||datsumousp13.com^
 ||omosirosp.com^
 ||kikusei12v9.com^
