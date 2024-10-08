@@ -238,7 +238,6 @@ www.dmm.com###iFrameResizer0
 ||oyajigra.blog.jp^
 ||ero-doujin-masterpiece-selection.blog.jp^
 ||adult-doujin-free-information-bureau.officialblog.jp^
-||ero-doujin-masterpiece-selection.blog.jp^
 !hard,others
 ||video.fc2.com/a*^$document
 !hard,own
