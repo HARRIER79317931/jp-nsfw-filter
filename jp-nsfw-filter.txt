@@ -222,7 +222,7 @@ www.dmm.com###iFrameResizer0
 ||arcane-arts.com^
 ||aimatome.net^
 ||teenager-idol.com^
-||tv.dmm.com/vod/restrict*^$docment
+||tv.dmm.com/vod/restrict*^$document
 ||www.idolvcc.com^
 ||kumashy-blog.com^
 !hard,livedoor
@@ -242,7 +242,7 @@ www.dmm.com###iFrameResizer0
 !hard,others
 ||video.fc2.com/a*^$document
 !hard,own
-||ch-yunyun.com/ailab*^$docment
+||ch-yunyun.com/ailab*^$document
 ||datsumousp13.com^
 ||omosirosp.com^
 ||kikusei12v9.com^
