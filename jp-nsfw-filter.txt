@@ -10,6 +10,17 @@
 ||overf.wp.xdomain.jp^
 ||wakidoki.com/microblog*^$document
 ||aika.ldblog.jp^
+!game
+||123chat.jp^
+*.ero-labs.*^$docment
+||kanochat.jp^
+||keycolle.jp^
+||khs2ixflz6mtrpgykhq.ywufsjhc4.jp^
+||mekomaji.jp^
+||momoan.jp^
+||nijichat.jp^
+||oshimemo.com^
+||web.c4connect.co.jp^
 !platform
 ||072labo.com^
 ||43pan.jp^
