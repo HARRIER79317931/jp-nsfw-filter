@@ -12,7 +12,7 @@
 ||aika.ldblog.jp^
 !game
 ||123chat.jp^
-*.ero-labs.*^$docment
+*.ero-labs.*^$document
 ||kanochat.jp^
 ||keycolle.jp^
 ||khs2ixflz6mtrpgykhq.ywufsjhc4.jp^
