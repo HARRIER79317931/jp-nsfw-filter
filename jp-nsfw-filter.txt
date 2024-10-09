@@ -108,7 +108,7 @@
 ||usi32.com^
 ||vr-erogamer.com^
 ||warotanikki.com^
-||wpxblog.jp^
+!||wpxblog.jp^
 ||www.34jf.com^
 ||www.qimeilou.com^
 ||www.world-of-dawkins.com^
