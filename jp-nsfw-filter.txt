@@ -261,10 +261,12 @@ www.dmm.com###iFrameResizer0
 ||noacnesp.com^
 ||fanthuhan.com^
 ||nadarenews.com^
+!manga,novel
+||novel18.syosetu.com^
+||syosetu.org/?mode=img_gallery&filter=18*^$document
+||syosetu.org/*r18*^$document
 !#if false
 !manga
-||novel18.syosetu.com^
-||syosetu.org^
 ||toptoon.jp^$all
 ||www.cmoa.jp^$all
 ||www.lezhin.jp^$all
