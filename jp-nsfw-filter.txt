@@ -262,7 +262,9 @@ www.dmm.com###iFrameResizer0
 ||fanthuhan.com^
 ||nadarenews.com^
 !manga,novel
-||novel18.syosetu.com^
+||noc.syosetu.com^
+||mnlt.syosetu.com^
+||mid.syosetu.com^
 ||syosetu.org/?mode=img_gallery&filter=18*^$document
 ||syosetu.org/*r18*^$document
 !#if false
