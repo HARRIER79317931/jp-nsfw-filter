@@ -33,6 +33,7 @@
 ||ex-deli.jp^
 ||fantia.jp^
 ||game.tsutaya-adult.com^
+||grajapa.shueisha.co.jp^
 ||hitodoll.com^
 !||nicovideo.jp^$third-party
 !||nicozon.net^
@@ -283,7 +284,6 @@ www.dmm.com###iFrameResizer0
 !entertainment
 ||aikru.com^
 ||bunshun.jp^
-||grajapa.shueisha.co.jp^
 ||hominis.media^
 ||idolscheduler.jp^
 ||magazine.yanmaga.jp^
