@@ -207,6 +207,8 @@ www.dmm.com###iFrameResizer0
 ||anime2.blog.jp^
 ||haijin-desuga-illustration.blog.jp^
 ||te-toku.blog.jp^
+||imagevideo-seifuku.blog.jp^
+||hgeinou.blog.jp^
 ||nndc.doorblog.jp^
 ||5ch-echiechi.doorblog.jp^
 ||davidd.livedoor.blog^
@@ -223,6 +225,11 @@ www.dmm.com###iFrameResizer0
 ||guramizugi.livedoor.biz^
 ||tvcapnews.diary.to^
 !soft,fc2
+||digimonolog2.blog.fc2.com^
+||banasicro.blog44.fc2.com^
+||nandemonews.blog100.fc2.com^
+||gravureidolmilk.blog.fc2.com^
+||kawasakiyyapple.blog.fc2.com^
 ||2idols.blog.fc2.com^
 ||tarentomatome.blog.fc2.com^
 ||pichipichiidol.blog.fc2.com^
@@ -234,8 +241,11 @@ www.dmm.com###iFrameResizer0
 !soft,others
 ||gravure-cup-diary.seesaa.net^
 ||idolinforoom.seesaa.net^
+||geino-idle-youtube.seesaa.net^
 ||gravureidolmoviedvd.blog.2nt.com^
 ||bigbust-gradol.hatenablog.com^
+||mangaanimeseiyudaisuki.hatenablog.com^
+||pengin0423.hatenablog.com^
 ||fanblogs.jp/aigurabia$document
 ||blog.goo.ne.jp/daisuki-dasuke$document
 ||ameblo.jp/cubcubcubcub$document
@@ -471,6 +481,7 @@ www.dmm.com###iFrameResizer0
 ||karibianndottookomu.com^
 ||caribbeancom-review.asia^
 ||mote-surfing.jp^
+||pinkpynk.com^
 !manga,novel
 ||noc.syosetu.com^
 ||mnlt.syosetu.com^
