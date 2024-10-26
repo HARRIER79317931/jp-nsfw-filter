@@ -2,6 +2,12 @@
 ! Homepage:https://github.com/HARRIER79317931/jp-nsfw-filter
 ! Expires: 12 hours
 
+!ranking
+||s.rbbtoday.com/category/entertainment/gravure$document
+||thetv.jp/news/gravure$document
+||oricon.co.jp/gravure$document
+||news.mynavi.jp/top/entertainment/entertainment/gravure$document
+||nicozon.net/ranking/*/r18$document
 !to do
 ||news2.0.1.idolsenka.net^
 ||newsmov.idolsenka.net^
