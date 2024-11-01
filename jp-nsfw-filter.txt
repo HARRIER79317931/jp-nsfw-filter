@@ -244,6 +244,9 @@ www.dmm.com###iFrameResizer0
 ||k3iv.blog.fc2.com^
 ||nankamiru.blog.fc2.com^
 ||gramania01.blog.fc2.com^
+!soft,ameblo
+||ameblo.jp/cubcubcubcub$document
+
 !soft,others
 ||gravure-cup-diary.seesaa.net^
 ||idolinforoom.seesaa.net^
@@ -254,7 +257,6 @@ www.dmm.com###iFrameResizer0
 ||pengin0423.hatenablog.com^
 ||fanblogs.jp/aigurabia$document
 ||blog.goo.ne.jp/daisuki-dasuke$document
-||ameblo.jp/cubcubcubcub$document
 !soft,own
 ||idoldouga.net^
 ||gravure-diary.com^
