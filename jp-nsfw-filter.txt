@@ -16,8 +16,10 @@
 ||overf.wp.xdomain.jp^
 ||wakidoki.com/microblog$document
 ||aika.ldblog.jp^
-!game
+!game,chat
 ||123chat.jp^
+||cutechat.ai^
+||creategirls.ai^
 ||ero-labs.$document
 ||kanochat.jp^
 ||keycolle.jp^
