@@ -16,7 +16,7 @@
 ||overf.wp.xdomain.jp^
 ||wakidoki.com/microblog$document
 ||aika.ldblog.jp^
-!game,chat
+!game,ai
 ||123chat.jp^
 ||cutechat.ai^
 ||creategirls.ai^
@@ -24,10 +24,13 @@
 ||kanochat.jp^
 ||keycolle.jp^
 ||khs2ixflz6mtrpgykhq.ywufsjhc4.jp^
+||makenude.ai^
 ||mekomaji.jp^
 ||momoan.jp^
 ||nijichat.jp^
+||nudefusion.com^
 ||oshimemo.com^
+||undresser.ai^
 ||web.c4connect.co.jp^
 !platform
 ||072labo.com^
