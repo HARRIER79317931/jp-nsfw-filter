@@ -52,6 +52,13 @@
 ||ainsfwgenerator.com^
 ||chat.kink.ai^
 ||xgenerator.vercel.app^
+||www.aroused.ai^
+||bot3.ai^
+||dreamle.ai^
+||thedream.ai/nsfw$document
+||www.undress.vip^
+||www.nudify.me^
+||heyhoney.ai^
 !platform
 ||072labo.com^
 ||43pan.jp^
