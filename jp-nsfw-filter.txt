@@ -551,6 +551,7 @@ www.dmm.com###iFrameResizer0
 ||uzukinonomura.livedoor.biz^
 !hard,others
 ||video.fc2.com/a$document
+||video.fc2.com/*/a/$document
 ||guy202.blog.fc2.com^
 ||dracrea.blog120.fc2.com^
 ||girls-software.venus.bindcloud.jp^
