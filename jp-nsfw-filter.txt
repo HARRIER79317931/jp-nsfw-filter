@@ -269,7 +269,7 @@ www.dmm.com###iFrameResizer0
 ||imagevideo-seifuku.blog.jp^
 ||hgeinou.blog.jp^
 ||gradolstyle.blog.jp^
-||gravuremagazine12.blog.jp^
+!||gravuremagazine12.blog.jp^
 ||paio.blog.jp^
 ||bijinbijyogazou.blog.jp^
 ||turizemebijo.blog.jp^
