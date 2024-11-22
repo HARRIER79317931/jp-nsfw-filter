@@ -237,6 +237,11 @@ www.dmm.com###iFrameResizer0
 ||blog.livedoor.jp/acsjtsots$document
 ||blog.livedoor.jp/genjoshi2000$document
 ||blog.livedoor.jp/toruneko1973$document
+||blog.livedoor.jp/nandemojouhou$document
+||blog.livedoor.jp/erogeinougazo$document
+||blog.livedoor.jp/dnsyaku5963-kiji2$document
+||blog.livedoor.jp/motemotelife5151$document
+||blog.livedoor.jp/tomtom4456$document
 ||gravian.blog.jp^
 ||imacap.blog.jp^
 ||sexydouga.blog.jp^
@@ -294,6 +299,14 @@ www.dmm.com###iFrameResizer0
 ||loveoppai.blog.jp^
 ||hamblog6.blog.jp^
 ||tunakantunakan.blog.jp^
+||mogurajyoshichanneru.blog.jp^
+||magazinejapanese*.blog.jp^
+||pick-ch.blog.jp^
+||bizinstyle.blog.jp^
+||iorimoe.blog.jp^
+||news-z.blog.jp^
+||kawaiigasaikyou.blog.jp^
+||onapet-quater-total.blog.jp^
 ||saihate.doorblog.jp^
 ||familia-fantasize.doorblog.jp^
 ||guramato.doorblog.jp^
@@ -301,6 +314,7 @@ www.dmm.com###iFrameResizer0
 ||gravurezasshi9.doorblog.jp^
 ||nndc.doorblog.jp^
 ||5ch-echiechi.doorblog.jp^
+||idolfanmaster.doorblog.jp^
 ||davidd.livedoor.blog^
 ||kouzaki25.livedoor.blog^
 ||magazinejapanese.livedoor.blog^
@@ -409,6 +423,8 @@ www.dmm.com###iFrameResizer0
 ||ameblo.jp/tada-mizuho$document
 ||ameblo.jp/haruchoco0901$document
 ||ameblo.jp/rikamochizuki0824$document
+||ameblo.jp/idledvdsenka$document
+||ameblo.jp/gwd3j6tm9h$document
 !soft,others
 ||gravure-cup-diary.seesaa.net^
 ||idolinforoom.seesaa.net^
@@ -425,6 +441,7 @@ www.dmm.com###iFrameResizer0
 ||empty-trash.publog.jp^
 ||chakuero.cafeblog.jp^
 ||nazuism2024.blog.ss-blog.jp^
+||inkeitooppai.youblog.jp^
 !soft,own
 ||idoldouga.net^
 ||gravure-diary.com^
@@ -445,6 +462,8 @@ www.dmm.com###iFrameResizer0
 ||erotubematome.com^
 ||www.matome.one-ist.com^
 ||loanimai-fugirls.net^
+||stablediffusionlab.net^
+||edaijiten.com^
 !hard,livedoor
 ||blog.livedoor.jp/bookedaura$document
 ||blog.livedoor.jp/h20130925$document
@@ -507,6 +526,9 @@ www.dmm.com###iFrameResizer0
 ||blog.livedoor.jp/healingspace$document
 ||blog.livedoor.jp/micheal8823$document
 ||blog.livedoor.jp/pussy_man$document
+||blog.livedoor.jp/h_na_kibun$document
+||blog.livedoor.jp/xypedia$document
+||blog.livedoor.jp/av0120$document
 ||wesweswes.blog.jp^
 ||hozumikenji.blog.jp^
 ||haldio.livedoor.blog^
@@ -632,6 +654,11 @@ www.dmm.com###iFrameResizer0
 ||cfilorvy.blog.jp^
 ||picchiri.blog.jp^
 ||joi.blog.jp^
+||erosokuero.blog.jp^
+||gnosenritu.blog.jp^
+||potya-gura.blog.jp^
+||bukkake-world.blog.jp^
+||b-arekorematome.blog.jp^
 ||lovescene.doorblog.jp^
 ||binbinsiyouze.doorblog.jp^
 ||dcsakurast.doorblog.jp^
@@ -701,9 +728,13 @@ www.dmm.com###iFrameResizer0
 ||loveona77.blog.2nt.com^
 ||maipenrai03.blog.2nt.com^
 ||kame072.blog.2nt.com^
+||fuckforever635.blog.2nt.com^
 ||sbmstyleqw9.cafeblog.jp^
 ||gf-gallery.dreamlog.jp^
 ||almz.holy.jp/iroero$document
+||kokohenjp.mixh.jp^
+||hpkenkyu.mixh.jp^
+||zatsumatomesan.kokohenjp.mixh.jp^
 !hard,own
 ||ch-yunyun.com/ailab$document
 ||datsumousp13.com^
@@ -741,12 +772,18 @@ www.dmm.com###iFrameResizer0
 ||www.bokurano-music.com^
 ||minnano-erodouga.com^
 ||traditionaliconography.com^
+||ikikatasaiko.com^
+||access-soapland.com^
+||zetsubou.love^
+||junioridol.tokyo^
+||dmmrex.com^
 !manga,novel
 ||noc.syosetu.com^
 ||mnlt.syosetu.com^
 ||mid.syosetu.com^
 ||syosetu.org/?mode=img_gallery&filter=18$document
 ||syosetu.org/*r18$document
+||niji-gazo.com^
 !#if false
 !manga
 ||toptoon.jp^$all
