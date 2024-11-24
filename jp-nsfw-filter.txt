@@ -2,6 +2,26 @@
 ! Homepage:https://github.com/HARRIER79317931/jp-nsfw-filter
 ! Expires: 12 hours
 
+!ads
+||app.seedapp.jp^
+||d1yt8zt4633tzi.cloudfront.net^
+||er-once.com^
+||hyadain.com^
+||ichigobatakenews.com^
+||imgf25.imgxyqpdrs.xyz^
+||kog.onemt.com^
+||lifeedly.com^
+||live.ivory.ne.jp^
+||mato-time.com^
+||mode-extra.com^
+||new-tips.net^
+||prime-ever.com^
+||ranmaotome.com^
+||sb.rebihada.salon^
+||wp-article.com^
+||www.e-go-ist.com^
+||pcmax.jp^
+||ac.m-ads.jp^
 !ranking
 ||s.rbbtoday.com/category/entertainment/gravure$document
 ||thetv.jp/news/gravure$document
@@ -843,23 +863,4 @@ www.dmm.com###iFrameResizer0
 ##.uniquest-link
 !unknown
 ||indohouse.net^
-!adds
-||app.seedapp.jp^$all
-||d1yt8zt4633tzi.cloudfront.net^$all
-||er-once.com^$all
-||hyadain.com^$all
-||ichigobatakenews.com^$all
-||imgf25.imgxyqpdrs.xyz^$all
-||kog.onemt.com^$all
-||lifeedly.com^$all
-||live.ivory.ne.jp^$all
-||mato-time.com^$all
-||mode-extra.com^$all
-||new-tips.net^$all
-||prime-ever.com^$all
-||ranmaotome.com^$all
-||resize.blogsys.jp^$all
-||sb.rebihada.salon^$all
-||wp-article.com^$all
-||www.e-go-ist.com^$all
 !#endif
