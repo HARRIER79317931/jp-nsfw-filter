@@ -22,6 +22,8 @@
 ||www.e-go-ist.com^
 ||pcmax.jp^
 ||ac.m-ads.jp^
+||livechat-sp.com^
+||vi-vo.link^
 !ranking
 ||s.rbbtoday.com/category/entertainment/gravure$document
 ||thetv.jp/news/gravure$document
@@ -79,6 +81,7 @@
 ||www.undress.vip^
 ||www.nudify.me^
 ||heyhoney.ai^
+||www.face-switch-ai.com^
 !platform
 ||072labo.com^
 ||43pan.jp^
@@ -138,6 +141,9 @@
 ||www.ultra-galaxy.com^
 ||naramori.com/s_adult$document
 ||tv.rakuten.co.jp/adult$document
+||wakust.com^
+||fdatabank.com^
+||amachafuzoku.net^
 !blog
 ||2dpaizuri.com^
 ||3anahentaitukaikomi.jp^
@@ -516,6 +522,8 @@ www.dmm.com###iFrameResizer0
 ||loanimai-fugirls.net^
 ||stablediffusionlab.net^
 ||edaijiten.com^
+||uraaka-ranking.com^
+||chijyo-shinjuku.net^
 !hard,livedoor
 ||blog.livedoor.jp/bookedaura$document
 ||blog.livedoor.jp/h20130925$document
@@ -711,6 +719,7 @@ www.dmm.com###iFrameResizer0
 ||potya-gura.blog.jp^
 ||bukkake-world.blog.jp^
 ||b-arekorematome.blog.jp^
+||fuzoku-friend.blog.jp^
 ||lovescene.doorblog.jp^
 ||binbinsiyouze.doorblog.jp^
 ||dcsakurast.doorblog.jp^
@@ -769,6 +778,7 @@ www.dmm.com###iFrameResizer0
 ||video.fc2.com/*/a/$document
 ||guy202.blog.fc2.com^
 ||dracrea.blog120.fc2.com^
+||neotokyofuzoku.blog.fc2.com^
 ||girls-software.venus.bindcloud.jp^
 ||mamatati.mynikki.jp^
 ||adultmovie.4urinfo.com^
@@ -829,6 +839,11 @@ www.dmm.com###iFrameResizer0
 ||zetsubou.love^
 ||junioridol.tokyo^
 ||dmmrex.com^
+||kaneko-pua.com^
+||ike-log.com^
+||x-oasis.com^
+||fuzokulove.tokyo^
+||cowpersuzuki.com^
 !manga,novel
 ||noc.syosetu.com^
 ||mnlt.syosetu.com^
@@ -836,6 +851,7 @@ www.dmm.com###iFrameResizer0
 ||syosetu.org/?mode=img_gallery&filter=18$document
 ||syosetu.org/*r18$document
 ||niji-gazo.com^
+||www.h-ken.net^
 !#if false
 !manga
 ||toptoon.jp^$all
