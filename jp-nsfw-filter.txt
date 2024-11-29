@@ -30,6 +30,11 @@
 ||oricon.co.jp/gravure$document
 ||news.mynavi.jp/top/entertainment/entertainment/gravure$document
 ||nicozon.net/ranking/*/r18$document
+||nikkan-spa.jp/myspa/s-gravure$document
+||www.sanspo.com/entertainment/geino/gravure$document
+||www.wws-channel.com/gravure$document
+||smart-flash.jp/gravure$document
+||hominis.media/category/gravures$document
 !to do
 ||news2.0.1.idolsenka.net^
 ||newsmov.idolsenka.net^
@@ -144,6 +149,9 @@
 ||wakust.com^
 ||fdatabank.com^
 ||amachafuzoku.net^
+||115x166x150x118.svshost.com^
+||y-versailles.com^
+||nukinavi-j.com^
 !blog
 ||2dpaizuri.com^
 ||3anahentaitukaikomi.jp^
@@ -259,6 +267,13 @@
 ||yanmaga.jp^
 ||ynjn.jp^
 ||youngjump.jp^
+||gravure.trenve.com^
+||trenve.com/category/gravure$document
+||trenve.com/gravure$document
+||attra.jp^
+||bombweb.jp^
+||idol.biglobe.ne.jp^
+||fantastica-vr.com^
 www.dmm.com###iFrameResizer0
 ||pics.dmm.com/mono/movie/idol/*.jpg$image
 ||pics.dmm.com/digital/video/*.jpg$image
@@ -270,6 +285,7 @@ www.dmm.com###iFrameResizer0
 ||genniji2.com^
 ||girlsweetie.com^
 ||oppai-erogazou.ero2ch.net^
+||panchira-gazou.com^
 ||mizugazo.com^
 ||r21plus.com^
 !soft,doorblog
@@ -844,6 +860,9 @@ www.dmm.com###iFrameResizer0
 ||x-oasis.com^
 ||fuzokulove.tokyo^
 ||cowpersuzuki.com^
+||www.carib-ura.com^
+||lolijccom.hatenablog.com^
+||adult.biglobe.ne.jp^
 !manga,novel
 ||noc.syosetu.com^
 ||mnlt.syosetu.com^
