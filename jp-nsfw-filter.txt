@@ -110,7 +110,7 @@
 ||tsumanne.net^
 ||www.asmr.one^
 ||www.dakikano.com^
-||www.nizimaru.com^$all
+||www.nizimaru.com^
 ||www.withny.fun^
 ||www.y-etoile.jp^
 ||xcolle.com^
