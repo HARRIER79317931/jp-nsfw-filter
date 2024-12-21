@@ -255,7 +255,7 @@
 !||livedoor.biz^
 !||livedoor.blog^
 !||livedoor.blogimg.jp^
-!||lovedoll-blog.com^
+||lovedoll-blog.com^
 ||mabui-onna.com^
 ||matomecup.com^
 ||megane.bloggeek.jp^
