@@ -227,8 +227,8 @@
 ||ufoooo.com^
 ||erotica-t.jp^
 ||ai-crafts.com/r18$document
-||ai-crafts.com$removeparam=rating
-||www.chichi-pui.com$removeparam=age_limit
+||ai-crafts.com^$removeparam=rating
+||www.chichi-pui.com^$removeparam=age_limit
 ||www.hokkorin.jp/i/kaisyun$document
 ||xx.knit.bid^
 ||lovense.com^
