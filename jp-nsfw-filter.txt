@@ -1,6 +1,6 @@
 ! Title:JP NSFW filter
 ! Homepage:https://github.com/HARRIER79317931/jp-nsfw-filter
-! Expires: 12 hours
+! Expires:  7 days
 
 !ads
 ||app.seedapp.jp^
@@ -97,6 +97,12 @@
 ||doax-venusvacation.jp^
 ||game.doaxvv.com^
 ||h.cgg4game.com^
+||sus-app.voltage.co.jp^
+||harem-of-tokyo.com^
+||www.millennium-war.net^
+||aigis1000.jp^
+||aigis1000-r.jp^
+||
 !platform
 ||072labo.com^
 ||43pan.jp^
@@ -262,6 +268,7 @@
 ||www.itsacg.com^
 ||bowlroll.net/r18$document
 ||www.hotzxgirl.com^
+||hmvmania.com^
 !blog
 ||2dpaizuri.com^
 ||3anahentaitukaikomi.jp^
@@ -2075,6 +2082,9 @@ www.dmm.com###iFrameResizer0
 ||faponic.com^
 ||setsunas.com^
 ||emdb.info^
+||megane-ro.com^
+||www.browser-r18games.info^
+||nitamono.nitadls.com^
 !manga,novel
 ||noc.syosetu.com^
 ||mnlt.syosetu.com^
