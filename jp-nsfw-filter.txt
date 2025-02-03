@@ -102,7 +102,6 @@
 ||www.millennium-war.net^
 ||aigis1000.jp^
 ||aigis1000-r.jp^
-||
 !platform
 ||072labo.com^
 ||43pan.jp^
