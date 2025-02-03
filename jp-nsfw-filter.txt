@@ -97,10 +97,10 @@
 ||doax-venusvacation.jp^
 ||game.doaxvv.com^
 ||h.cgg4game.com^
-||sus-app.voltage.co.jp^
-||harem-of-tokyo.com^
+!||sus-app.voltage.co.jp^
+||harem-of-tokyo.com/x$document
 ||www.millennium-war.net^
-||aigis1000.jp^
+!||aigis1000.jp^
 ||aigis1000-r.jp^
 !platform
 ||072labo.com^
