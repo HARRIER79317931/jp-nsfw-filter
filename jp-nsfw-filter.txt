@@ -2,6 +2,43 @@
 ! Homepage:https://github.com/HARRIER79317931/jp-nsfw-filter
 ! Expires:  7 days
 
+!plat+ads,ch,temp
+||10.31xx8993s.cc^
+||1.14.46.63^
+||www.mtvb242.vip^
+||4.w0q9g4vtl.cc^
+||www.xb1.com^
+||www.efkusv.xyz^
+||3.xiu7783s.cc^
+||91.51c288.top^
+||www.kzxnhg.xyz^
+||piwoejid.com^
+||www.188evfd02.top^
+||hhtj181.top^
+||84a9e86.ad36iw7.cyou^
+||446a9b4.brwb0t2.cyou^
+||6786187.go0c4mi.cyou^
+||6f90f55.d3r2r3x.cyou^
+||www.200werb01.top^
+||hfsm249.top^
+||js3390.haarh.top^
+||kbm.wklw1n.cc^
+||162.14.100.95^
+||domdom.szxziot.com^
+||oritjyrt.com^
+||klrjetu.com^
+||zmg58.top^
+||www.mtrc21.vip^
+||www.xhsrt162.vip^
+||134.175.124.134^
+||132.232.220.166^
+||129.28.27.81^
+||sxzx209.zzdxzkbk.com^
+||2ufbm.xingzongheng.com^
+||mkx18.top^
+||neb42.top^
+||xn--1lq42ao4e015cuvk.cn^
+||avcat-tmhn176.vip^
 !ads
 ||app.seedapp.jp^
 ||d1yt8zt4633tzi.cloudfront.net^
@@ -268,6 +305,10 @@
 ||bowlroll.net/r18$document
 ||www.hotzxgirl.com^
 ||hmvmania.com^
+||erovns.com^
+||oppaimousepad.com^
+||www.sakume.com^
+||www.hlj.com$removeparam=AdultItem
 !blog
 ||2dpaizuri.com^
 ||3anahentaitukaikomi.jp^
@@ -580,6 +621,8 @@ www.dmm.com###iFrameResizer0
 ||livedoorone.blog.jp^
 ||229ewa.blog.jp^
 ||yota-pantyhose.blog.jp^
+||aidol-p.blog.jp^
+||tokusen-mensesthe.blog.jp^
 ||bokuhakiseki.doorblog.jp^
 ||saihate.doorblog.jp^
 ||familia-fantasize.doorblog.jp^
@@ -788,6 +831,7 @@ www.dmm.com###iFrameResizer0
 ||doakawaiihonoka.info^
 ||doaxvv.fun^
 ||ryona-collect.com^
+||aigazo.com^
 !hard,livedoor
 ||blog.livedoor.jp/bookedaura$document
 ||blog.livedoor.jp/h20130925$document
@@ -1053,6 +1097,7 @@ www.dmm.com###iFrameResizer0
 ||blog.livedoor.jp/gay0721manga$document
 ||blog.livedoor.jp/dmmvideo888$document
 ||blog.livedoor.jp/akushiro$document
+||blog.livedoor.jp/kinisoku$document
 ||wesweswes.blog.jp^
 ||hozumikenji.blog.jp^
 ||haldio.livedoor.blog^
@@ -1527,6 +1572,7 @@ www.dmm.com###iFrameResizer0
 ||doujinseikatu.blog.jp^
 ||douyasu.blog.jp^
 ||ims.blog.jp^
+||chinamin.blog.jp^
 ||lovescene.doorblog.jp^
 ||binbinsiyouze.doorblog.jp^
 ||dcsakurast.doorblog.jp^
@@ -1870,6 +1916,7 @@ www.dmm.com###iFrameResizer0
 ||panpanantena.techblog.jp^
 ||paraphilia.techblog.jp^
 ||nizigeneroooooooooooo.myjournal.jp^
+||www.inetclub.blog^
 !hard,others
 ||seiseikatsu.fc2.xxx^
 ||www.t-net.ne.jp/~garugoa$document
