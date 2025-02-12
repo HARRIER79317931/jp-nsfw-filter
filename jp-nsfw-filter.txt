@@ -310,6 +310,7 @@
 ||oppaimousepad.com^
 ||www.sakume.com^
 ||www.hlj.com$removeparam=AdultItem
+||aipictors.com/r$document
 !blog
 ||2dpaizuri.com^
 ||3anahentaitukaikomi.jp^
