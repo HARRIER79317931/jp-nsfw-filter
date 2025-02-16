@@ -318,6 +318,7 @@
 ||www.hlj.com$removeparam=AdultItem
 ||aipictors.com/r$document
 ||nsfwgear.com^
+||s-digi.jp^
 !blog
 ||2dpaizuri.com^
 ||3anahentaitukaikomi.jp^
@@ -804,6 +805,7 @@ www.dmm.com###iFrameResizer0
 ||blog.goo.ne.jp/daisuki-dasuke$document
 ||seesaawiki.jp/gravure$document
 ||godpanties.xsrv.jp^
+||aidorugravure.blogspot.com^
 !soft,own
 ||idoldouga.net^
 ||gravure-diary.com^
