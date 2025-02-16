@@ -803,7 +803,6 @@ www.dmm.com###iFrameResizer0
 ||ameblo.jp/ms-tan$document
 ||ameblo.jp/paipatyroma$document
 ||ameblo.jp/poppys$document
-||aitoda.blogspot.com/?m=1
 !hard?
 ||ameblo.jp/mimimimimimiy666$document
 ||ameblo.jp/21308156$document
@@ -823,6 +822,8 @@ www.dmm.com###iFrameResizer0
 ||seesaawiki.jp/gravure$document
 ||godpanties.xsrv.jp^
 ||aidorugravure.blogspot.com^
+!required to be checked
+||aitoda.blogspot.com^
 !soft,own
 ||idoldouga.net^
 ||gravure-diary.com^
