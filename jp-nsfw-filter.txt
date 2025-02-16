@@ -79,6 +79,17 @@
 ||wpb.shueisha.co.jp/gravure$document
 ||younganimal.com/category/gravure$document
 ||magazine.jp.square-enix.com/yg/gravure$document
+||www.nikkan-gendai.com/articles/index/geino/category:12$document
+||www.nikkan-gendai.com/articles/view/geinox$document
+||www.tokyo-sports.co.jp/list/entame/gravure$document
+||girlsnews.tv/category/gravureidol$document
+||www.news-postseven.com/gravure$document
+||entameclip.com/gravure$document
+||www.idolreport.jp/gravure$document
+||news.biglobe.ne.jp/entertainment/gravure$document
+||popnroll.tv/tags/%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2$document
+||newscollect.jp/headlines/topic/gravure$document
+||mikan-incomplete.com/category/gravure$document
 !to do
 ||news2.0.1.idolsenka.net^
 ||newsmov.idolsenka.net^
