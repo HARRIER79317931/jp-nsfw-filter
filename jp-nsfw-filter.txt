@@ -330,6 +330,10 @@
 ||aipictors.com/r$document
 ||nsfwgear.com^
 ||s-digi.jp^
+||gravuregarden.com^
+||www.nifty.com/graphis$document
+||tv.rakuten.co.jp/genre/idol_gravure$document
+||tv.rakuten.co.jp/genre/adult$document
 !blog
 ||2dpaizuri.com^
 ||3anahentaitukaikomi.jp^
