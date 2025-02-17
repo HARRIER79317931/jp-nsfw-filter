@@ -336,6 +336,9 @@
 ||tv.rakuten.co.jp/genre/adult$document
 ||gravurekid.com^
 ||asia-idol.myshopify.com^
+||jcomic.net^
+||trendszine.com^
+||bestgirlsexy.com^
 !blog
 ||2dpaizuri.com^
 ||3anahentaitukaikomi.jp^
