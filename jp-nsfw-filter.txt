@@ -177,7 +177,7 @@
 ||rafine.net^
 ||ranking-deli.jp^
 ||tsumanne.net^
-||www.asmr.one^
+||asmr.one^
 ||www.dakikano.com^
 ||www.nizimaru.com^
 ||www.withny.fun^
@@ -373,6 +373,12 @@
 ||smanavi.net^
 ||erob-ch.com^
 ||acme55.net^
+||sz-search.com^
+||idol-sagasukun.com^
+||lourmel.nl^
+||www.campus-av.com^
+||www.pcolle.com^
+||yifanhune.com^
 !blog
 ||2dpaizuri.com^
 ||3anahentaitukaikomi.jp^
@@ -915,6 +921,8 @@ www.dmm.com###iFrameResizer0
 ||nanjmuseum.com^
 ||www.hkmarket1314.com^
 ||nukidan.site^
+||kabucrowdfunding.com^
+||imagevideo.net^
 !hard,livedoor
 ||blog.livedoor.jp/bookedaura$document
 ||blog.livedoor.jp/h20130925$document
@@ -2067,6 +2075,9 @@ www.dmm.com###iFrameResizer0
 ||erojoso.blog.2nt.com^
 ||erogahaku.blog.2nt.com^
 ||nobinlog.blog.2nt.com^
+||eroplay.blog.2nt.com^
+||hamep.blog.2nt.com^
+||wonderblackzone1907.blog.2nt.com^
 ||echisite.blogterest.net^
 ||nuko.blogterest.net^
 ||adult-now.blogterest.net^
@@ -2093,6 +2104,7 @@ www.dmm.com###iFrameResizer0
 ||www.ichibanshibori.loveshil.info^
 ||naitoharutolovenanami.hatenablog.com^
 ||zurikichi081.hatenablog.com^
+||www.dangodangodango.cfbx.jp^
 !hard,own
 ||echomedia.co.jp/yauyuism$document
 ||ch-yunyun.com/ailab$document
@@ -2261,6 +2273,12 @@ www.dmm.com###iFrameResizer0
 ||oekaki-ai.com^
 ||mgsfhw.com^
 ||mgsgirls.com^
+||costype.net^
+||ryonaniko.com^
+||www.soknuk.com^
+||onamedia.jp^
+||vr-ero.net^
+||dddl.konyaanto.net^
 !manga,novel
 ||noc.syosetu.com^
 ||mnlt.syosetu.com^

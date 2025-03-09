@@ -1,5 +1,5 @@
 # jp-nsfw-filter
-The filter that block japanese soft or hard porn. Available in uBlock Origin.
+The filter that blocks Japanese (with a bit of Chinese, Korean, English) soft or hard porn. Available in uBlock Origin.
 
 Use this filter with dns filter such as 1.1.1.1 for family.
 
