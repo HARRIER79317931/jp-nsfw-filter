@@ -2291,6 +2291,13 @@ www.dmm.com###iFrameResizer0
 ||sowhiz.co.jp/ura-match$document
 ||love-tackle.com^
 ||vod365.net^
+||sukebate.com^
+||otona-asobiba.jp^
+||echilab.com^
+||comepass.net^
+||aroma-luana.jp^
+||jdnoblog.com^
+||ero-cha.com^
 !manga,novel
 ||noc.syosetu.com^
 ||mnlt.syosetu.com^
